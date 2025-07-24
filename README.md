@@ -35,4 +35,6 @@ Cara-E-commerce/
 ├── script.js           # JavaScript logic
 ├── shop.html
 
+## 🔗 Live Demo
 
+[![Live Demo](https://img.shields.io/badge/Netlify-View%20Site-brightgreen?style=for-the-badge&logo=netlify)](https://cara-e-commerce-app.netlify.app/)
