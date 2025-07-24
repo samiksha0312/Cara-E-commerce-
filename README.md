@@ -22,6 +22,8 @@ A responsive and modern e-commerce front-end website built using *HTML, **CSS, a
 - Vanilla JavaScript (DOM manipulation, cart logic)
 - Font Awesome (for icons)
 - Google Fonts
+- 
+---
 
 Cara-E-commerce/
 │
@@ -34,6 +36,8 @@ Cara-E-commerce/
 ├── index.html          # Landing page
 ├── script.js           # JavaScript logic
 ├── shop.html
+
+---
 
 ## 🔗 Live Demo
 
