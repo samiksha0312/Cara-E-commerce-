@@ -1,11 +1,12 @@
 # 🛍 Cara E-commerce
 
 A responsive and modern e-commerce front-end website built using *HTML, **CSS, and **JavaScript*. This project simulates a real shopping experience with product pages, shopping cart, and basic interactions.
-## 🔗 Live Demo
-# 🛒 Cara E-commerce Website
-[Live Demo 🔗](https://cara-e-commerce-app.netlify.app/)
----
 
+---
+## 🔗 Live Demo
+[Live Demo 🔗](https://cara-e-commerce-app.netlify.app/)
+
+---
 ## 🚀 Features
 
 - 🧾 Homepage with featured products
